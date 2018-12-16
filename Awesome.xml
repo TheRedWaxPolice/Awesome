@@ -26,9 +26,9 @@
         <wcol_regular>
           <ThemeWidgetColors
             outline="#202020"
-            inner="#5e5e5eff"
+            inner="#525252ff"
             inner_sel="#c85130ff"
-            item="#b8b8b8ff"
+            item="#333333ff"
             text="#b8b8b8"
             text_sel="#d9d9d9"
             show_shaded="FALSE"
@@ -88,7 +88,7 @@
             outline="#202020"
             inner="#333333ff"
             inner_sel="#c85130ff"
-            item="#414141ff"
+            item="#333333ff"
             text="#b8b8b8"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -133,7 +133,7 @@
             outline="#202020"
             inner="#333333ff"
             inner_sel="#c85130ff"
-            item="#6d6d6dff"
+            item="#333333ff"
             text="#b8b8b8"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -301,7 +301,7 @@
             item="#ffffffff"
             text="#b8b8b8"
             text_sel="#d9d9d9"
-            show_shaded="TRUE"
+            show_shaded="FALSE"
             shadetop="0"
             shadedown="-10"
             roundness="0.4"
@@ -318,6 +318,8 @@
             inner_driven_sel="#8600b3"
             inner_overridden="#3e7373"
             inner_overridden_sel="#275959"
+            inner_changed="#cc7529"
+            inner_changed_sel="#e6852d"
             blend="0.6"
             >
           </ThemeWidgetStateColors>
