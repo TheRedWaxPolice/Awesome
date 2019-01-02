@@ -104,7 +104,7 @@
             inner="#808080ff"
             inner_sel="#c85130ff"
             item="#ffffffff"
-            text="#b8b8b8"
+            text="#cccccc"
             text_sel="#d9d9d9"
             show_shaded="TRUE"
             shadetop="10"
