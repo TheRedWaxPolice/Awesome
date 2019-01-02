@@ -1048,7 +1048,7 @@
         <space>
           <ThemeSpaceGeneric
             back="#474747"
-            title="#eeeeee"
+            title="#cccccc"
             text="#b8b8b8"
             text_hi="#d9d9d9"
             header="#474747ff"
@@ -1066,9 +1066,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#42424200"
-                back="#333333b3"
-                sub_back="#0000003e"
+                header="#6b6b6bff"
+                back="#474747ff"
+                sub_back="#00000019"
                 >
               </ThemePanelColors>
             </panelcolors>
