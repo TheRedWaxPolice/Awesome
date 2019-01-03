@@ -2,8 +2,8 @@
   <Theme>
     <user_interface>
       <ThemeUserInterface
-        menu_shadow_fac="0.5"
-        menu_shadow_width="3"
+        menu_shadow_fac="0.1"
+        menu_shadow_width="10"
         icon_file=""
         icon_alpha="1"
         icon_saturation="1"
@@ -223,7 +223,7 @@
             outline="#202020"
             inner="#474747ff"
             inner_sel="#c85130ff"
-            item="#c85130e6"
+            item="#6b6b6bff"
             text="#b8b8b8"
             text_sel="#d9d9d9"
             show_shaded="FALSE"
@@ -413,7 +413,7 @@
         <space>
           <ThemeSpaceGradient
             title="#000000"
-            text="#e4e4e4"
+            text="#cccccc"
             text_hi="#cccccc"
             header="#47474700"
             header_text="#d9d9d9"
