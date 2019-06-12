@@ -6,7 +6,7 @@
         menu_shadow_width="10"
         icon_alpha="1"
         icon_saturation="1"
-        widget_emboss="#ffffff03"
+        widget_emboss="#ffffff01"
         editor_outline="#303030"
         axis_x="#e52d2d"
         axis_y="#2de52d"
@@ -344,7 +344,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#404040ff"
+        grid="#414141ff"
         clipping_border_3d="#313131ff"
         wire="#000000"
         wire_edit="#010203"
@@ -434,7 +434,7 @@
             <gradients>
               <ThemeGradientColors
                 show_grad="FALSE"
-                high_gradient="#333333"
+                high_gradient="#555555"
                 gradient="#404040"
                 >
               </ThemeGradientColors>
