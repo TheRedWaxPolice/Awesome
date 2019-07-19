@@ -904,8 +904,8 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        node_selected="#fff4f8"
-        node_active="#ffffff"
+        node_selected="#00a3e6"
+        node_active="#ffaa18"
         wire="#292929"
         wire_inner="#737373"
         wire_select="#ffffff"
