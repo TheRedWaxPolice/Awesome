@@ -434,7 +434,7 @@
             <gradients>
               <ThemeGradientColors
                 show_grad="FALSE"
-                high_gradient="#555555"
+                high_gradient="#333333"
                 gradient="#404040"
                 >
               </ThemeGradientColors>
