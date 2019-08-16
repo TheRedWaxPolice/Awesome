@@ -352,7 +352,7 @@
         gp_vertex_select="#ff8500"
         gp_vertex_size="3"
         text_grease_pencil="#b5e61d"
-        object_selected="#00a3e6"
+        object_selected="#00b5ff"
         object_active="#ffaa18"
         text_keyframe="#ddd700"
         camera="#b3ccbe"
@@ -398,7 +398,7 @@
         normal="#22dddd"
         vertex_normal="#2361dd"
         split_normal="#dd23dd"
-        bone_pose="#00a3e6"
+        bone_pose="#00b5ff"
         bone_pose_active="#ffaa18"
         bone_solid="#b2b2b2"
         bundle_solid="#c8c8c8"
@@ -904,7 +904,7 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        node_selected="#00a3e6"
+        node_selected="#00b5ff"
         node_active="#ffaa18"
         wire="#292929"
         wire_inner="#737373"
@@ -973,9 +973,10 @@
     <outliner>
       <ThemeOutliner
         match="#337f33"
-        selected_highlight="#5c5c5c"
-        selected_object="#00a3e6"
-        active_object="#ffc832"
+        selected_highlight="#575757"
+        active="#666666"
+        selected_object="#00b5ff"
+        active_object="#fff500"
         edited_object="#00806266"
         row_alternate="#ffffff07"
         >
