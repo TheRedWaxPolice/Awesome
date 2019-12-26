@@ -8,6 +8,7 @@
         icon_saturation="1"
         widget_emboss="#ffffff01"
         editor_outline="#303030"
+        widget_text_cursor="#d9d9d9"
         axis_x="#e54444"
         axis_y="#2de579"
         axis_z="#2d89e5"
@@ -377,6 +378,8 @@
         face_dot="#00beb0"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
+        face_back="#e54444b3"
+        face_front="#2d89e5b3"
         nurb_uline="#89908a"
         nurb_vline="#fff8f4"
         nurb_sel_uline="#2400ff"
@@ -404,7 +407,7 @@
         bone_solid="#b2b2b2"
         bundle_solid="#c8c8c8"
         camera_path="#000000"
-        skin_root="#000000"
+        skin_root="#b44d4d"
         view_overlay="#000000"
         transform="#ffffff"
         frame_current="#4c9933"
@@ -435,7 +438,7 @@
             <gradients>
               <ThemeGradientColors
                 show_grad="FALSE"
-                high_gradient="#424242"
+                high_gradient="#404040"
                 gradient="#383838"
                 >
               </ThemeGradientColors>
@@ -711,6 +714,8 @@
         face_dot="#ff8500"
         facedot_size="2"
         freestyle_face_mark="#7fff7f33"
+        face_back="#00000000"
+        face_front="#00000000"
         editmesh_active="#ffffff80"
         wire_edit="#5c5c5c"
         edge_select="#ff8500"
@@ -977,7 +982,7 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#337f33"
+        match="#2e732e"
         selected_highlight="#575757"
         active="#666666"
         selected_object="#00b5ff"
